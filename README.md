@@ -46,16 +46,16 @@ By completing this course, I want to strengthen my ability to:
 
 ## 1. Introduction to SQL
 
-- [ ] Course introduction
-- [ ] Course roadmap and resources
-- [ ] Understand what SQL is
-- [ ] Understand databases and DBMS
-- [ ] Understand relational databases
-- [ ] Understand the data analytics process with SQL
-- [ ] Review SQL command categories
-- [ ] Set up SQL Server
-- [ ] Set up SQL Server Management Studio (SSMS)
-- [ ] Load and explore the course databases
+- [X] Course introduction
+- [X] Course roadmap and resources
+- [X] Understand what SQL is
+- [X] Understand databases and DBMS
+- [X] Understand relational databases
+- [X] Understand the data analytics process with SQL
+- [X] Review SQL command categories
+- [X] Set up SQL Server
+- [X] Set up SQL Server Management Studio (SSMS)
+- [X] Load and explore the course databases
 
 ### Key concepts
 
@@ -65,17 +65,15 @@ By completing this course, I want to strengthen my ability to:
 
 ## 2. SELECT Queries
 
-- [ ] SELECT
-- [ ] FROM
-- [ ] WHERE
-- [ ] ORDER BY
+- [X] SELECT & FROM
+- [X] WHERE
+- [X] ORDER BY
 - [ ] GROUP BY
 - [ ] HAVING
 - [ ] DISTINCT
 - [ ] TOP
 - [ ] Aliases
-- [ ] Understand SQL coding order
-- [ ] Understand SQL execution order
+- [ ] Understand SQL coding order and SQL execution order
 
 ### Key concepts
 
