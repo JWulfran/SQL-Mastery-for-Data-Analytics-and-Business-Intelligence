@@ -42,7 +42,7 @@ By completing this course, I want to strengthen my ability to:
 
 > To update progress, replace `[ ]` with `[x]` after completing a milestone.
 
-**Overall progress:** `0 / 18 milestones completed`
+**Overall progress:** `1 / 18 milestones completed`
 
 ## 1. Introduction to SQL
 
