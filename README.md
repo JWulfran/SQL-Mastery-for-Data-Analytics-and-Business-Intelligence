@@ -42,7 +42,7 @@ By completing this course, I want to strengthen my ability to:
 
 > To update progress, replace `[ ]` with `[x]` after completing a milestone.
 
-**Overall progress:** `1 / 18 milestones completed`
+**Overall progress:** `2 / 18 milestones completed`
 
 ## 1. Introduction to SQL
 
@@ -68,12 +68,12 @@ By completing this course, I want to strengthen my ability to:
 - [X] SELECT & FROM
 - [X] WHERE
 - [X] ORDER BY
-- [ ] GROUP BY
-- [ ] HAVING
-- [ ] DISTINCT
-- [ ] TOP
-- [ ] Aliases
-- [ ] Understand SQL coding order and SQL execution order
+- [X] GROUP BY
+- [X] HAVING
+- [X] DISTINCT
+- [X] TOP
+- [X] Aliases
+- [X] Understand SQL coding order and SQL execution order
 
 ### Key concepts
 
@@ -90,9 +90,9 @@ ORDER BY
 
 ## 3. Filtering Data
 
-- [ ] Comparison operators
-- [ ] AND
-- [ ] OR
+- [X] Comparison operators
+- [X] AND
+- [X] OR
 - [ ] NOT
 - [ ] BETWEEN
 - [ ] IN / NOT IN
