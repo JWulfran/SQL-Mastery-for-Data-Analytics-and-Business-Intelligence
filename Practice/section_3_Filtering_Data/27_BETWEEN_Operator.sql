@@ -1,0 +1,13 @@
+-- Check if a value is within a range
+-- The boundaries are inclusive
+
+
+-- Retrieve all customers whose score falls in the range between 100 and 500
+
+SELECT * FROM customers
+WHERE score BETWEEN 100 AND 500;
+
+    -- Without operators
+
+SELECT * FROM customers
+WHERE score >= 100 AND score <= 500;

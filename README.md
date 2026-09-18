@@ -42,7 +42,7 @@ By completing this course, I want to strengthen my ability to:
 
 > To update progress, replace `[ ]` with `[x]` after completing a milestone.
 
-**Overall progress:** `2 / 18 milestones completed`
+**Overall progress:** `4 / 18 milestones completed`
 
 ## 1. Introduction to SQL
 
@@ -93,12 +93,10 @@ ORDER BY
 - [X] Comparison operators
 - [X] AND
 - [X] OR
-- [ ] NOT
-- [ ] BETWEEN
-- [ ] IN / NOT IN
-- [ ] LIKE
-- [ ] Wildcards `%` and `_`
-- [ ] Combine multiple filtering conditions
+- [X] NOT
+- [X] BETWEEN
+- [X] IN / NOT IN
+- [X] LIKE
 
 ### Practice goal
 
@@ -108,16 +106,16 @@ Write queries that answer business questions by filtering only the relevant reco
 
 ## 4. String Functions
 
-- [ ] CONCAT
-- [ ] UPPER
-- [ ] LOWER
-- [ ] TRIM
-- [ ] REPLACE
-- [ ] LEN
-- [ ] LEFT
-- [ ] RIGHT
-- [ ] SUBSTRING
-- [ ] Apply string functions for data cleaning
+- [X] CONCAT
+- [X] UPPER
+- [X] LOWER
+- [X] TRIM
+- [X] REPLACE
+- [X] LEN
+- [X] LEFT
+- [X] RIGHT
+- [X] SUBSTRING
+- [X] Apply string functions for data cleaning
 
 ### Practice goal
 
