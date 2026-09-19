@@ -4,6 +4,8 @@
 ![SQL](https://img.shields.io/badge/SQL-SQL%20Server-blue)
 ![Learning](https://img.shields.io/badge/Learning-Udemy-purple)
 
+# **Overall progress:** `4 / 18 milestones completed`
+
 This repository documents my learning journey through the Udemy course **SQL Mastery for Data Analytics and Business Intelligence** by **Baraa Khatib Salkini (Data With Baraa)**.
 
 The purpose of this repository is to track my progress, organize my SQL notes and exercises, and build a reference that I can reuse in future **Data Analysis**, **Business Intelligence**, and **Business Analysis** projects.
@@ -42,7 +44,6 @@ By completing this course, I want to strengthen my ability to:
 
 > To update progress, replace `[ ]` with `[x]` after completing a milestone.
 
-**Overall progress:** `4 / 18 milestones completed`
 
 ## 1. Introduction to SQL
 
@@ -125,13 +126,13 @@ Clean inconsistent text fields and create new descriptive columns.
 
 ## 5. Date & Time Functions
 
-- [ ] DAY
-- [ ] MONTH
-- [ ] YEAR
-- [ ] DATEPART
-- [ ] DATENAME
-- [ ] DATETRUNC
-- [ ] EOMONTH
+- [X] DAY
+- [X] MONTH
+- [X] YEAR
+- [X] DATEPART
+- [X] DATENAME
+- [X] DATETRUNC
+- [X] EOMONTH
 - [ ] FORMAT
 - [ ] CONVERT
 - [ ] CAST
