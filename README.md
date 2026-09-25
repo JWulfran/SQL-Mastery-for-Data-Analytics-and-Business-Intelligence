@@ -4,7 +4,7 @@
 ![SQL](https://img.shields.io/badge/SQL-SQL%20Server-blue)
 ![Learning](https://img.shields.io/badge/Learning-Udemy-purple)
 
-# **Overall progress:** `4 / 18 milestones completed`
+# **Overall progress:** `5 / 18 milestones completed`
 
 This repository documents my learning journey through the Udemy course **SQL Mastery for Data Analytics and Business Intelligence** by **Baraa Khatib Salkini (Data With Baraa)**.
 
@@ -133,13 +133,13 @@ Clean inconsistent text fields and create new descriptive columns.
 - [X] DATENAME
 - [X] DATETRUNC
 - [X] EOMONTH
-- [ ] FORMAT
-- [ ] CONVERT
-- [ ] CAST
-- [ ] DATEADD
-- [ ] DATEDIFF
-- [ ] ISDATE
-- [ ] Aggregate data by date periods
+- [X] FORMAT
+- [X] CONVERT
+- [X] CAST
+- [X] DATEADD
+- [X] DATEDIFF
+- [X] ISDATE
+- [X] Aggregate data by date periods
 
 ### Practice goal
 
@@ -448,6 +448,36 @@ FROM customer_sales;
 | YYYY-MM-DD | EDA | Sales database exploration | ⬜ | |
 
 ---
+# Notes
+    ## Section 1
+    
+
+    ## Section 2
+
+
+    ## Section 3
+
+
+    ## Section 4
+
+
+    ## Section 5
+
+                                            Data Type
+    - DAY(), MONTH(), YEAR(), DATEPART() ==> INT
+    - DATENAME ()                        ==> STRING
+    - DATETRUNC()                        ==> DATETIME
+
+    ---
+        Decision Tree
+
+                                       _ Numeric ?      ==> DAY(), MONTH()
+                      _ Day, Month ? _/_ Full Name ?    ==> DATENAME()
+        Which Part ?_/_ Year ?       ___                ==> YEAR()
+                     \_ Other Parts ? ___               ==> DATEPART()
+    
+    ---
+---
 
 # Projects
 
@@ -497,42 +527,7 @@ projects/
 
 # Notes Structure
 
-I plan to organize my learning materials using the following structure:
 
-```text
-sql-mastery/
-│
-├── README.md
-│
-├── notes/
-│   ├── 01_sql_introduction.md
-│   ├── 02_select_queries.md
-│   ├── 03_filtering_data.md
-│   ├── 04_string_functions.md
-│   ├── 05_date_time_functions.md
-│   ├── 06_null_functions.md
-│   ├── 07_case_when.md
-│   ├── 08_joins.md
-│   ├── 09_set_operators.md
-│   ├── 10_window_functions.md
-│   ├── 11_subqueries.md
-│   └── 12_ctes.md
-│
-├── exercises/
-│   ├── basics/
-│   ├── joins/
-│   ├── window-functions/
-│   ├── subqueries/
-│   └── ctes/
-│
-├── projects/
-│   ├── exploratory-data-analysis/
-│   └── advanced-data-analytics/
-│
-└── sql/
-    ├── practice_queries.sql
-    └── challenges.sql
-```
 
 ---
 
