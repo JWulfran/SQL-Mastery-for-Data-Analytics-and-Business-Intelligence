@@ -4,7 +4,7 @@
 ![SQL](https://img.shields.io/badge/SQL-SQL%20Server-blue)
 ![Learning](https://img.shields.io/badge/Learning-Udemy-purple)
 
-# **Overall progress:** `5 / 18 milestones completed`
+# **Overall progress:** `6 / 18 milestones completed`
 
 This repository documents my learning journey through the Udemy course **SQL Mastery for Data Analytics and Business Intelligence** by **Baraa Khatib Salkini (Data With Baraa)**.
 
@@ -149,16 +149,16 @@ Analyze sales or transactions by year, quarter, month, and day.
 
 ## 6. NULL Functions
 
-- [ ] Understand NULL
-- [ ] IS NULL
-- [ ] IS NOT NULL
-- [ ] ISNULL
-- [ ] COALESCE
-- [ ] NULLIF
-- [ ] NULL vs empty string
-- [ ] Handle NULLs in calculations
-- [ ] Handle NULLs in aggregations
-- [ ] Handle NULLs in joins
+- [x] Understand NULL
+- [x] IS NULL
+- [x] IS NOT NULL
+- [x] ISNULL
+- [x] COALESCE
+- [x] NULLIF
+- [x] NULL vs empty string
+- [x] Handle NULLs in calculations
+- [x] Handle NULLs in aggregations
+- [x] Handle NULLs in joins
 
 ### Practice goal
 
@@ -168,12 +168,12 @@ Prevent missing values from producing misleading analytical results.
 
 ## 7. CASE WHEN
 
-- [ ] Understand CASE syntax
-- [ ] Categorize data
-- [ ] Map codes to readable values
-- [ ] Handle NULL values with CASE
-- [ ] Create conditional calculations
-- [ ] Create conditional aggregations
+- [x] Understand CASE syntax
+- [x] Categorize data
+- [x] Map codes to readable values
+- [x] Handle NULL values with CASE
+- [x] Create conditional calculations
+- [x] Create conditional aggregations
 
 ### Example
 
