@@ -189,16 +189,16 @@ END AS sales_category
 
 ## 8. SQL JOINs
 
-- [ ] INNER JOIN
-- [ ] LEFT JOIN
-- [ ] RIGHT JOIN
-- [ ] FULL JOIN
-- [ ] CROSS JOIN
-- [ ] LEFT ANTI JOIN
-- [ ] RIGHT ANTI JOIN
-- [ ] FULL ANTI JOIN
-- [ ] Join multiple tables
-- [ ] Choose the appropriate JOIN for a business question
+- [x] INNER JOIN
+- [x] LEFT JOIN
+- [x] RIGHT JOIN
+- [x] FULL JOIN
+- [x] CROSS JOIN
+- [x] LEFT ANTI JOIN
+- [x] RIGHT ANTI JOIN
+- [x] FULL ANTI JOIN
+- [x] Join multiple tables
+- [x] Choose the appropriate JOIN for a business question
 
 ### Practice goal
 
