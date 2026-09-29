@@ -4,7 +4,7 @@
 ![SQL](https://img.shields.io/badge/SQL-SQL%20Server-blue)
 ![Learning](https://img.shields.io/badge/Learning-Udemy-purple)
 
-# **Overall progress:** `6 / 18 milestones completed`
+# **Overall progress:** `9 / 18 milestones completed`
 
 This repository documents my learning journey through the Udemy course **SQL Mastery for Data Analytics and Business Intelligence** by **Baraa Khatib Salkini (Data With Baraa)**.
 
@@ -208,13 +208,13 @@ Combine customers, orders, products, employees, or other related tables into use
 
 ## 9. SQL SET Operators
 
-- [ ] UNION
-- [ ] UNION ALL
-- [ ] INTERSECT
-- [ ] EXCEPT
-- [ ] Understand SET operator rules
-- [ ] Combine similar datasets
-- [ ] Understand duplicate handling
+- [x] UNION
+- [x] UNION ALL
+- [x] INTERSECT
+- [x] EXCEPT
+- [x] Understand SET operator rules
+- [x] Combine similar datasets
+- [x] Understand duplicate handling
 
 ### Practice goal
 
