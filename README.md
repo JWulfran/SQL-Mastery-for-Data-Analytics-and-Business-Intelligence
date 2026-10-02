@@ -4,7 +4,7 @@
 ![SQL](https://img.shields.io/badge/SQL-SQL%20Server-blue)
 ![Learning](https://img.shields.io/badge/Learning-Udemy-purple)
 
-# **Overall progress:** `9 / 18 milestones completed`
+# **Overall progress:** `10 / 18 milestones completed`
 
 This repository documents my learning journey through the Udemy course **SQL Mastery for Data Analytics and Business Intelligence** by **Baraa Khatib Salkini (Data With Baraa)**.
 
@@ -224,16 +224,16 @@ Combine rows returned by multiple compatible queries.
 
 ## 10. Window Functions — Fundamentals
 
-- [ ] Understand window functions
-- [ ] Compare window functions vs GROUP BY
-- [ ] OVER()
-- [ ] PARTITION BY
-- [ ] ORDER BY inside OVER()
-- [ ] Window frames
-- [ ] ROWS
-- [ ] UNBOUNDED PRECEDING
-- [ ] CURRENT ROW
-- [ ] Understand window function rules
+- [x] Understand window functions
+- [x] Compare window functions vs GROUP BY
+- [x] OVER()
+- [x] PARTITION BY
+- [x] ORDER BY inside OVER()
+- [x] Window frames
+- [x] ROWS
+- [x] UNBOUNDED PRECEDING
+- [x] CURRENT ROW
+- [x] Understand window function rules
 
 ### Practice goal
 
