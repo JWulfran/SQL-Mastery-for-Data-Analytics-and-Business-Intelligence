@@ -243,14 +243,14 @@ Perform analytical calculations without losing row-level detail.
 
 ## 11. Window Aggregate Functions
 
-- [ ] COUNT() OVER()
-- [ ] SUM() OVER()
-- [ ] AVG() OVER()
-- [ ] MIN() OVER()
-- [ ] MAX() OVER()
-- [ ] Running totals
-- [ ] Moving calculations
-- [ ] Partitioned aggregations
+- [x] COUNT() OVER()
+- [x] SUM() OVER()
+- [x] AVG() OVER()
+- [x] MIN() OVER()
+- [x] MAX() OVER()
+- [x] Running totals
+- [x] Moving calculations
+- [x] Partitioned aggregations
 
 ### Example
 
@@ -402,28 +402,28 @@ FROM customer_sales;
 
 ## Beginner
 
-- [ ] SELECT
-- [ ] WHERE
-- [ ] ORDER BY
-- [ ] DISTINCT
-- [ ] TOP
-- [ ] GROUP BY
+- [x] SELECT
+- [x] WHERE
+- [x] ORDER BY
+- [x] DISTINCT
+- [x] TOP
+- [x] GROUP BY
 - [ ] HAVING
 
 ## Intermediate
 
-- [ ] String functions
-- [ ] Date functions
-- [ ] NULL handling
-- [ ] CASE WHEN
-- [ ] JOINs
-- [ ] SET operators
-- [ ] Aggregate functions
+- [x] String functions
+- [x] Date functions
+- [x] NULL handling
+- [x] CASE WHEN
+- [x] JOINs
+- [x] SET operators
+- [x] Aggregate functions
 
 ## Advanced
 
-- [ ] Window functions
-- [ ] PARTITION BY
+- [x] Window functions
+- [x] PARTITION BY
 - [ ] ROW_NUMBER
 - [ ] RANK
 - [ ] DENSE_RANK
