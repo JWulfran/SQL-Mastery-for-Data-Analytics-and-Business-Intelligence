@@ -265,13 +265,13 @@ SUM(sales) OVER (
 
 ## 12. Window Ranking Functions
 
-- [ ] ROW_NUMBER()
-- [ ] RANK()
-- [ ] DENSE_RANK()
-- [ ] NTILE()
-- [ ] Top-N analysis
-- [ ] Rank within groups
-- [ ] Understand ties in ranking
+- [x] ROW_NUMBER()
+- [x] RANK()
+- [x] DENSE_RANK()
+- [x] NTILE()
+- [x] Top-N analysis
+- [x] Rank within groups
+- [x] Understand ties in ranking
 
 ### Practice goal
 
@@ -424,9 +424,9 @@ FROM customer_sales;
 
 - [x] Window functions
 - [x] PARTITION BY
-- [ ] ROW_NUMBER
-- [ ] RANK
-- [ ] DENSE_RANK
+- [x] ROW_NUMBER
+- [x] RANK
+- [x] DENSE_RANK
 - [ ] LAG
 - [ ] LEAD
 - [ ] Subqueries
