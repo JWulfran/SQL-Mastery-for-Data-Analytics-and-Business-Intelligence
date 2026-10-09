@@ -4,7 +4,7 @@
 ![SQL](https://img.shields.io/badge/SQL-SQL%20Server-blue)
 ![Learning](https://img.shields.io/badge/Learning-Udemy-purple)
 
-# **Overall progress:** `10 / 18 milestones completed`
+# **Overall progress:** `13 / 18 milestones completed`
 
 This repository documents my learning journey through the Udemy course **SQL Mastery for Data Analytics and Business Intelligence** by **Baraa Khatib Salkini (Data With Baraa)**.
 
@@ -281,13 +281,13 @@ Rank customers, products, employees, or sales within meaningful business groups.
 
 ## 13. Window Value Functions
 
-- [ ] LAG()
-- [ ] LEAD()
-- [ ] FIRST_VALUE()
-- [ ] LAST_VALUE()
-- [ ] Compare current vs previous values
-- [ ] Calculate period-over-period changes
-- [ ] Analyze trends
+- [x] LAG()
+- [x] LEAD()
+- [x] FIRST_VALUE()
+- [x] LAST_VALUE()
+- [x] Compare current vs previous values
+- [x] Calculate period-over-period changes
+- [x] Analyze trends
 
 ### Practice goal
 
