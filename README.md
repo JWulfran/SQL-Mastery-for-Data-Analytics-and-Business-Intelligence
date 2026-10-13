@@ -4,7 +4,7 @@
 ![SQL](https://img.shields.io/badge/SQL-SQL%20Server-blue)
 ![Learning](https://img.shields.io/badge/Learning-Udemy-purple)
 
-# **Overall progress:** `13 / 18 milestones completed`
+# **Overall progress:** `14 / 18 milestones completed`
 
 This repository documents my learning journey through the Udemy course **SQL Mastery for Data Analytics and Business Intelligence** by **Baraa Khatib Salkini (Data With Baraa)**.
 
@@ -297,14 +297,14 @@ Use previous and next rows to identify changes and trends in business data.
 
 ## 14. Subqueries
 
-- [ ] Understand subqueries
-- [ ] Scalar subqueries
-- [ ] Subqueries in WHERE
-- [ ] Subqueries in FROM
-- [ ] Subqueries in SELECT
-- [ ] Nested queries
-- [ ] Correlated subqueries
-- [ ] EXISTS / NOT EXISTS
+- [x] Understand subqueries
+- [x] Scalar subqueries
+- [x] Subqueries in WHERE
+- [x] Subqueries in FROM
+- [x] Subqueries in SELECT
+- [x] Nested queries
+- [x] Correlated subqueries
+- [x] EXISTS / NOT EXISTS
 
 ### Practice goal
 

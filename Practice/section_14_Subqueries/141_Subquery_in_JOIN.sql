@@ -6,9 +6,10 @@ SELECT
     o.TotalOrder
 FROM Sales.Customers c
 LEFT JOIN (
+    -- Subquery
     SELECT 
         CustomerID,
         COUNT(*) TotalOrder
     FROM Sales.Orders
     GROUP BY CustomerID) o
-ON c.CustomerID = o.CustomerID
+ON c.CustomerID = o.CustomerID;
