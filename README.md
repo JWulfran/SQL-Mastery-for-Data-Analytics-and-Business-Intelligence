@@ -314,13 +314,13 @@ Break complex analytical questions into smaller SQL queries.
 
 ## 15. Common Table Expressions — CTEs
 
-- [ ] Understand WITH syntax
-- [ ] Build a simple CTE
-- [ ] Use multiple CTEs
-- [ ] Chain transformations
-- [ ] Recursive CTEs
-- [ ] Compare CTEs and subqueries
-- [ ] Improve readability of complex queries
+- [x] Understand WITH syntax
+- [x] Build a simple CTE
+- [x] Use multiple CTEs
+- [x] Chain transformations
+- [x] Recursive CTEs
+- [x] Compare CTEs and subqueries
+- [x] Improve readability of complex queries
 
 ### Example
 
@@ -427,11 +427,11 @@ FROM customer_sales;
 - [x] ROW_NUMBER
 - [x] RANK
 - [x] DENSE_RANK
-- [ ] LAG
-- [ ] LEAD
-- [ ] Subqueries
-- [ ] CTEs
-- [ ] Recursive CTEs
+- [x] LAG
+- [x] LEAD
+- [x] Subqueries
+- [x] CTEs
+- [x] Recursive CTEs
 - [ ] Advanced analytical queries
 - [ ] Query optimization
 
