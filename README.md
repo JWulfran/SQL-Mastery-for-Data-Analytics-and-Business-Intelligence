@@ -4,7 +4,7 @@
 ![SQL](https://img.shields.io/badge/SQL-SQL%20Server-blue)
 ![Learning](https://img.shields.io/badge/Learning-Udemy-purple)
 
-# **Overall progress:** `14 / 18 milestones completed`
+# **Overall progress:** `16 / 18 milestones completed`
 
 This repository documents my learning journey through the Udemy course **SQL Mastery for Data Analytics and Business Intelligence** by **Baraa Khatib Salkini (Data With Baraa)**.
 
@@ -340,17 +340,17 @@ FROM customer_sales;
 
 ## 16. Exploratory Data Analysis with SQL
 
-- [ ] Explore database structure
-- [ ] Explore dimensions
-- [ ] Explore measures
-- [ ] Identify date ranges
-- [ ] Analyze distributions
-- [ ] Calculate KPIs
-- [ ] Analyze customers
-- [ ] Analyze products
-- [ ] Analyze sales
-- [ ] Detect patterns and anomalies
-- [ ] Translate business questions into SQL
+- [x] Explore database structure
+- [x] Explore dimensions
+- [x] Explore measures
+- [x] Identify date ranges
+- [x] Analyze distributions
+- [x] Calculate KPIs
+- [x] Analyze customers
+- [x] Analyze products
+- [x] Analyze sales
+- [x] Detect patterns and anomalies
+- [x] Translate business questions into SQL
 
 ### Questions to answer
 
