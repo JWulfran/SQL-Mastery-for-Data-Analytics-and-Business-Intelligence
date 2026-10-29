@@ -4,7 +4,7 @@
 ![SQL](https://img.shields.io/badge/SQL-SQL%20Server-blue)
 ![Learning](https://img.shields.io/badge/Learning-Udemy-purple)
 
-# **Overall progress:** `16 / 18 milestones completed`
+# **Overall progress:** `18 / 18 milestones completed`
 
 This repository documents my learning journey through the Udemy course **SQL Mastery for Data Analytics and Business Intelligence** by **Baraa Khatib Salkini (Data With Baraa)**.
 
@@ -365,36 +365,36 @@ FROM customer_sales;
 
 ## 17. Advanced SQL Analytics
 
-- [ ] Running totals
-- [ ] Moving averages
-- [ ] Year-over-year analysis
-- [ ] Month-over-month analysis
-- [ ] Part-to-whole analysis
-- [ ] Customer segmentation
-- [ ] Product segmentation
-- [ ] Performance comparison
-- [ ] Trend analysis
-- [ ] Advanced business KPIs
-- [ ] Query optimization practice
+- [x] Running totals
+- [x] Moving averages
+- [x] Year-over-year analysis
+- [x] Month-over-month analysis
+- [x] Part-to-whole analysis
+- [x] Customer segmentation
+- [x] Product segmentation
+- [x] Performance comparison
+- [x] Trend analysis
+- [x] Advanced business KPIs
+- [x] Query optimization practice
 
 ---
 
 ## 18. Final Review & Portfolio Preparation
 
-- [ ] Review SQL fundamentals
-- [ ] Review JOINs
-- [ ] Review aggregations
-- [ ] Review window functions
-- [ ] Review subqueries
-- [ ] Review CTEs
-- [ ] Complete the EDA project
-- [ ] Complete advanced analytics exercises
-- [ ] Clean repository structure
-- [ ] Add comments and documentation
-- [ ] Add project screenshots/results if useful
-- [ ] Publish final SQL projects to GitHub
-- [ ] Add completed projects to my portfolio
-- [ ] Complete the Udemy course
+- [x] Review SQL fundamentals
+- [x] Review JOINs
+- [x] Review aggregations
+- [x] Review window functions
+- [x] Review subqueries
+- [x] Review CTEs
+- [x] Complete the EDA project
+- [x] Complete advanced analytics exercises
+- [x] Clean repository structure
+- [x] Add comments and documentation
+- [x] Add project screenshots/results if useful
+- [x] Publish final SQL projects to GitHub
+- [x] Add completed projects to my portfolio
+- [x] Complete the Udemy course
 
 ---
 
@@ -432,7 +432,7 @@ FROM customer_sales;
 - [x] Subqueries
 - [x] CTEs
 - [x] Recursive CTEs
-- [ ] Advanced analytical queries
+- [x] Advanced analytical queries
 - [ ] Query optimization
 
 ---
@@ -447,37 +447,6 @@ FROM customer_sales;
 | YYYY-MM-DD | CTEs | Customer sales analysis | ⬜ | |
 | YYYY-MM-DD | EDA | Sales database exploration | ⬜ | |
 
----
-# Notes
-    ## Section 1
-    
-
-    ## Section 2
-
-
-    ## Section 3
-
-
-    ## Section 4
-
-
-    ## Section 5
-
-                                            Data Type
-    - DAY(), MONTH(), YEAR(), DATEPART() ==> INT
-    - DATENAME ()                        ==> STRING
-    - DATETRUNC()                        ==> DATETIME
-
-    ---
-        Decision Tree
-
-                                       _ Numeric ?      ==> DAY(), MONTH()
-                      _ Day, Month ? _/_ Full Name ?    ==> DATENAME()
-        Which Part ?_/_ Year ?       ___                ==> YEAR()
-                     \_ Other Parts ? ___               ==> DATEPART()
-    
-    ---
----
 
 # Projects
 
