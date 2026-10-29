@@ -436,19 +436,7 @@ FROM customer_sales;
 - [ ] Query optimization
 
 ---
-
-# Practice Log
-
-| Date | Topic | Exercise / Challenge | Status | Notes |
-|---|---|---|---|---|
-| YYYY-MM-DD | SELECT | Basic queries | ⬜ | |
-| YYYY-MM-DD | JOINs | Combine customers and orders | ⬜ | |
-| YYYY-MM-DD | Window Functions | Ranking products | ⬜ | |
-| YYYY-MM-DD | CTEs | Customer sales analysis | ⬜ | |
-| YYYY-MM-DD | EDA | Sales database exploration | ⬜ | |
-
-
-# Projects
+--- 
 
 ## Project 1 — SQL Exploratory Data Analysis
 
@@ -493,43 +481,6 @@ projects/
 ```
 
 ---
-
-# Notes Structure
-
-
-
----
-
-# Key Takeaways
-
-I will use this section to record the most important lessons from the course.
-
-### SQL Fundamentals
-
-- Add notes here.
-
-### Data Cleaning
-
-- Add notes here.
-
-### JOINs
-
-- Add notes here.
-
-### Window Functions
-
-- Add notes here.
-
-### Subqueries & CTEs
-
-- Add notes here.
-
-### SQL for Business Analysis
-
-- Add notes here.
-
----
-
 # Useful SQL Patterns
 
 ## Grouped aggregation
@@ -602,22 +553,6 @@ My goal is not only to learn SQL syntax, but to become better at using data to:
 7. Support business decisions
 
 ---
-
-# Progress Updates
-
-| Milestone | Status |
-|---|---|
-| SQL Foundations | ⬜ |
-| Data Filtering & Transformation | ⬜ |
-| JOINs & SET Operators | ⬜ |
-| Window Functions | ⬜ |
-| Subqueries & CTEs | ⬜ |
-| Exploratory Data Analysis | ⬜ |
-| Advanced SQL Analytics | ⬜ |
-| Course Completed | ⬜ |
-
----
-
 # Acknowledgements
 
 Course materials and learning path are based on:
@@ -632,4 +567,4 @@ This repository contains my personal notes, exercises, practice queries, and pro
 
 ## Last Updated
 
-September 14, 2026
+October 29, 2026
